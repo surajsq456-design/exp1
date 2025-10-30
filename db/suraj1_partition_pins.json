@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "AND_OUT",
+					"strict" : false
+				},
+				{
+					"name" : "OR_OUT",
+					"strict" : false
+				},
+				{
+					"name" : "NOT_OUT_A",
+					"strict" : false
+				},
+				{
+					"name" : "NAND_OUT",
+					"strict" : false
+				},
+				{
+					"name" : "NOR_OUT",
+					"strict" : false
+				},
+				{
+					"name" : "XOR_OUT",
+					"strict" : false
+				},
+				{
+					"name" : "XNOR_OUT",
+					"strict" : false
+				},
+				{
+					"name" : "A",
+					"strict" : false
+				},
+				{
+					"name" : "B",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
